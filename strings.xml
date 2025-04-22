@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">at_lab_project</string>
+    <string name="animals_title">Animals</string>
+    <string name="animal_icon_desc">Icon representing the animal</string>
+    <string name="service_icon_desc">Service Icon</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="animal_species">Species</string>
+
+</resources>
